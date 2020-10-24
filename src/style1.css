@@ -1,0 +1,17 @@
+.toggle-button{
+-fx-height:30px;
+-fx-width:30px;
+}
+#control{
+-fx-background-color:transparent;
+}
+#playlist{
+-fx-font-size: 22px;
+-fx-font-family: "Arial Black";
+-fx-fill: white;
+-fx-background-color:transparent;
+-fx-box-shadow: 3px,3px, 3px,grey;
+}
+#video{
+-fx-background-color:black;
+}
